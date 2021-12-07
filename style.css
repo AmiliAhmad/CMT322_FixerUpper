@@ -1,0 +1,60 @@
+.header-banner-text {
+    margin: 0px;
+    padding: 0px 0px 0px 220px;
+    display: inline-block
+}
+
+.body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-banner{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    display: block;
+    background: #472300;
+    color: white;
+    font-size: 30px;
+}
+
+.login-button {
+    transition-duration: 0.4s;
+    background-color: #0d4de0;
+    border: none;
+    color: white;
+    padding: 12px 25px 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 12px 20px 12px;
+    cursor: pointer;
+    float: right;
+    border-radius: 5px;
+}
+
+.login-button:hover {
+    background-color: #08308c;
+}
+
+.sign-up-button {
+    transition-duration: 0.4s;
+    background-color: #0d4de0;
+    border: none;
+    color: white;
+    padding: 12px 25px 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 12px 0px 12px;
+    cursor: pointer;
+    float: right;
+    border-radius: 5px;
+}
+
+.sign-up-button:hover {
+    background-color: #08308c;
+}
