@@ -1,3 +1,42 @@
+
+.container{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    height:650px;
+}
+
+
+.button{
+    display: inline-flex;
+    font-size: 30px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    padding: 15px 32px;
+    margin: 10px 6px;
+    color:black;
+    background-color: whitesmoke;
+    overflow: hidden;
+}
+
+.button-text,
+.icon{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 15px;
+    height: 50px;
+    
+}
+
+.icon{
+    font-size: 50px;
+}
+.button:hover{
+    background-color: lightslategray;
+}
+
+=======
 @media only screen and (min-device-width: 400px) {
     body{
         background-image: url('background_cmt322.jpg');
@@ -83,4 +122,5 @@
 .sign-up-button:hover {
     background-color: #08308c;
 }
+
 
