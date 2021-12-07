@@ -121,8 +121,9 @@
 }
 
 #message_icon{
-    position: absolute;
+    position: fixed;
     bottom: 30px;
     right: 30px;
     font-size: 50px;
+    color: white;
 }
