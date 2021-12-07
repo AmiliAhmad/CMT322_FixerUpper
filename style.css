@@ -123,4 +123,9 @@
     background-color: #08308c;
 }
 
-
+#message_icon{
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+    font-size: 50px;
+}
